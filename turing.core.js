@@ -1,7 +1,7 @@
 (function(global) {
 
 	var turing = {
-		VERSION: '0.0.1'
+		VERSION: '0.0.2'
 	};
 
 	if (global.turing) {
